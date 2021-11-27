@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389876931585",
+    "project_id": "sportbuddiesapp",
+    "storage_bucket": "sportbuddiesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389876931585:android:42b246ea97f6675f5e3400",
+        "android_client_info": {
+          "package_name": "com.example.sportbuddiesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389876931585-vpvua8sj7ug88mcljcqc9e6i4lq6jgik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdZqGhmu29l8F0byncfzc5gklwsk4meIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389876931585-vpvua8sj7ug88mcljcqc9e6i4lq6jgik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

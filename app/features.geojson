@@ -1,0 +1,2300 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Surin Ave Neighbourhood Park Basketball Court",
+        "Opening Hours": "[0600,2200]",
+        "Players": "[2,10]",
+        "Sport": "Basketball"
+      },
+      "geometry": {
+        "coordinates": [
+          103.884086,
+          1.35565
+        ],
+        "type": "Point"
+      },
+      "id": "656c9ed1f2db38d93f0d404a75b2716a"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Maplewood Park Basketball Court",
+        "Opening Hours": "[0600,2200]",
+        "Players": "[2,10]",
+        "Sport": "Basketball"
+      },
+      "geometry": {
+        "coordinates": [
+          103.885363,
+          1.353236
+        ],
+        "type": "Point"
+      },
+      "id": "c4843a55ce3c3e5c47336332df33b040"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Rentable Futsal Courts",
+        "Opening Hours": "[0600,2200]",
+        "Players": "[2,10]",
+        "Sport": "Soccer"
+      },
+      "geometry": {
+        "coordinates": [
+          103.885395,
+          1.357344
+        ],
+        "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ba"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 101 Aljunied Crescent Street Soccer Court",
+      "Address": "101 Aljunied Cres, Singapore 380101",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.882787,
+        1.320731
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bb"
+      },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blk 545 Street Soccer Court",
+        "Address": "545 Hougang Ave 8, Singapore 530545",
+        "Opening Hours": "[0600,2200]",
+        "Players": "[2,10]",
+        "Sport": "Soccer"
+      },
+      "geometry": {
+        "coordinates": [
+          103.892533,
+          1.379087
+        ],
+        "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bc"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 545 Basketball Court",
+      "Address": "545 Hougang Ave 8, Singapore 530545",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.892524,
+        1.379415
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bd"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 109 Street Soccer Court",
+      "Address": "109 Potong Pasir Ave 1, Singapore 350109",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.866888,
+        1.335347
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8be"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 970 Street Soccer Court",
+      "Address": "970 Hougang Street 91, Block 970, Singapore 530970",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.880650,
+        1.377891
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bf"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Ci Yuan Sports Park Street Soccer Court",
+      "Address": "941 Hougang Street 92, Singapore 530941",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.879971,
+        1.372915
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bg"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 413 Street Soccer Court",
+      "Address": "413 Ang Mo Kio Ave 10, Block 413, Singapore 560413",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.854149,
+        1.363335
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bh"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Marine Terrace Street Soccer Court",
+      "Address": "6 Marine Terrace, Singapore 440006",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.915991,
+        1.303447
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bi"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Marine Terrace Basketball Court",
+      "Address": "6 Marine Terrace, Singapore 440006",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.915805,
+        1.303613
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bj"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "North Bridge Road Street Soccer Court",
+      "Address": "8 North Bridge Rd, Block 8, Singapore 190008",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.864127,
+        1.304746
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bk"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "BFA Park Street Soccer Court",
+      "Address": "423 Fajar Rd, Singapore 670423",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.768697,
+        1.384770
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bl"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "BFA Park Basketball Court",
+      "Address": "423 Fajar Rd, Singapore 670423",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.768832,
+        1.385047
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bm"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Bedok Reservoir Street Soccer Court",
+      "Address": "602 Bedok Reservoir Rd, Block 602, Singapore 470602",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.910655,
+        1.328724
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bn"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Jalan Bahar Park Street Soccer Court",
+      "Address": "281 Jurong West Street 23, Singapore 640281",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.705608,
+        1.351270
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bo"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "St Xavier's Ln Street Soccer Court",
+      "Address": "212-8 St Xavier's Ln",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.898855,
+        1.371113
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bp"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 706 Bedok North Street Soccer Court",
+      "Address": "706 Bedok North Rd, Block 706 Block 706, Singapore 470706",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.918523,
+        1.335813
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bq"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Petir Street Soccer Court",
+      "Address": "227 Pending Rd, Singapore 670227",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.772175,
+        1.374803
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8br"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Tampines Street 22 Street Soccer Court",
+      "Address": "Tampines Street 22",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.953287,
+        1.347736
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bs"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Tampines Street 22 Basketball Court",
+      "Address": "Tampines Street 22",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.953535,
+        1.348025
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bt"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 605 Bedok Reservoir Street Soccer Court",
+      "Address": "605 Bedok Reservoir Rd, Singapore 470605",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.914448,
+        1.330876
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bu"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 605 Bedok Reservoir Basketball Court",
+      "Address": "605 Bedok Reservoir Rd, Singapore 470605",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.914342,
+        1.330705
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bv"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 256 Bukit Batok East Street Soccer Court",
+      "Address": "256 Bukit Batok East Ave 4, Block 256, Singapore 650256",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.758036,
+        1.350608
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bw"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 256 Bukit Batok East Street Soccer Court",
+      "Address": "Block 182, Singapore 651194",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.743817,
+        1.345028
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bx"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 256 Bukit Batok East Basketball Court",
+      "Address": "Block 182, Singapore 651194",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.743463,
+        1.345081
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8by"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 704 West Coast Street Soccer Court",
+      "Address": "704 West Coast Rd, Block 704 Block 704, Singapore 120704",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.759807,
+        1.306499
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8bz"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Bukit Gombak Park Street Soccer Court",
+      "Address": "394 Bukit Batok West Ave 5, Block 393, Singapore 650394",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.751792,
+        1.366639
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8aa"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Jurong East Central Street Soccer Court",
+      "Address": "211 Jurong East Street 21, Singapore 600211",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.740898,
+        1.338347
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ab"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Jurong East Central Street Soccer Court",
+      "Address": "211 Jurong East Street 21, Singapore 600211",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.740898,
+        1.338347
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ac"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Teban Neighbourhood Soccer Court",
+      "Address": "Teban Gardens Rd, Neighbourhood Park",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.740786,
+        1.321246
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ad"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Clementi West Street Soccer Court",
+      "Address": "602 Clementi West Street 1, Singapore 120602",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.766532,
+        1.305361
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ae"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Clementi West Basketball Court",
+      "Address": "602 Clementi West Street 1, Singapore 120602",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.767029,
+        1.305390
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8af"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Clementi Ave 4 Street Soccer Court",
+      "Address": "339 Clementi Ave 5, Singapore 120339",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.768933,
+        1.320066
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ag"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Choa Chu Kang Street Soccer Court",
+      "Address": "406 Choa Chu Kang Ave 3, Singapore 680406",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.740424,
+        1.380735
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ah"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Stirling Futsal Court",
+      "Address": "52 Stirling Rd, Singapore 140052",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.803426,
+        1.296804
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ai"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 107 Jurong East Street Soccer Court",
+      "Address": "107 Jurong East Street 13, Block 107, Singapore 600107",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.737706,
+        1.338158
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8aj"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 108 Jurong East Basketball Court",
+      "Address": "108 Jurong East Street 13, Block 108, Singapore 600108",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.737473,
+        1.338301
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ak"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Bukit Batok CC Street Soccer Court",
+      "Address": "117 Bukit Batok West Ave 6, Block 117, Singapore 650117",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.747555,
+        1.349444
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8al"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Jalan Rajah Street Soccer Court",
+      "Address": "101 Jln Rajah, Block 101, Singapore 321101",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.850114,
+        1.328912
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8am"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Geylang West Community Club Street Soccer Court",
+      "Address": "25 Upper Boon Keng Rd, Singapore 387311",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.850114,
+        1.328912
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ao"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "73B Ayer Rajah Crescent Street Soccer Court",
+      "Address": "73b Ayer Rajah Crescent, Singapore 139957",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.787068,
+        1.297885
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ap"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Marsiling Admiralty Park Street Soccer Court",
+      "Address": "202 Marsiling Dr, Singapore 730202",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.774620,
+        1.443148
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8aq"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 821 Yishun Street Soccer Court",
+      "Address": "Yishun Ave 1, Singapore 760822",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.834587,
+        1.413821
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ar"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Palm View Garden Street Soccer Court",
+      "Address": "Jurong West Street 41, Palm View Garden",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.721760,
+        1.348981
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8as"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Henderson Park Street Soccer Court",
+      "Address": "125 Bukit Merah View, Singapore 151125",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.823956,
+        1.285424
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8at"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Henderson Park Basketball Court",
+      "Address": "125 Bukit Merah View, Singapore 151125",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.823631,
+        1.285466
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8au"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Yishun River Green Street Soccer Court",
+      "Address": "329 Yishun Ring Rd, Singapore 760329",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.841761,
+        1.430958
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8av"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Bishan Street 11 Street Soccer Court",
+      "Address": "156 Bishan Street 13, Block 156, Singapore 570156",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.857098,
+        1.344583
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8aw"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Yan Kit Road Street Soccer Court",
+      "Address": "New Bridge Rd, Singapore 089140",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.842233,
+        1.277521
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ax"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Yan Kit Road Basketball Court",
+      "Address": "New Bridge Rd, Singapore 089140",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.842440,
+        1.277447
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ay"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Bishan Street 22 Street Soccer Court",
+      "Address": "267 Bishan Street 24 Singapore 570267 Bishan Street 24, Singapore 570267",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.843250,
+        1.358014
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8az"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Toa Payoh Blk 38 Street Soccer Court",
+      "Address": "38 Lrg. 5 Toa Payoh, Block 38, Singapore 310038",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.855111,
+        1.335633
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ca"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 180 Ang Mo Kio Street Soccer Court",
+      "Address": "180 Ang Mo Kio Ave 5, Block 180 Block 180, Singapore 560180",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.838044,
+        1.376875
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cb"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Bukit Batok Street 31 Street Soccer Court",
+      "Address": "303 Bukit Batok Street 31, Singapore 650303",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.747725,
+        1.356881
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cc"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Bukit Batok East Ave 3 Street Soccer Court",
+      "Address": "225 Bukit Batok Central, Block 225, Singapore 650225",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.752629,
+        1.348880
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cd"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 131 Marsiliing Rise Basketball Court",
+      "Address": "131 Marsiling Rise, Singapore 730131",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.778508,
+        1.438756
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ce"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 131 Marsiliing Rise Basketball Court",
+      "Address": "Mandai Tekong Park",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.793926,
+        1.435033
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cf"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Mandai Tekong Park Street Soccer Court",
+      "Address": "Mandai Tekong Park",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.793926,
+        1.435033
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cg"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Mandai Tekong Park Basketball Court",
+      "Address": "Mandai Tekong Park",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.792928,
+        1.435541
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ch"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 637 Yishun Basketball Court",
+      "Address": "637 Yishun Street 61, Singapore 760637",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.839693,
+        1.420577
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ci"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Khatib MPC Basketball Court",
+      "Address": "Blk 838 Yishun Street 81, Singapore 760838",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.833849,
+        1.416659
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cj"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Khatib MPC Badminton Court",
+      "Address": "Blk 838 Yishun Street 81, Singapore 760838",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,4]",
+      "Sport": "Badminton"
+      },
+      "geometry": {
+      "coordinates": [
+        103.833584,
+        1.416824
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ck"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Jelutung Harbour Park Basketball Court",
+      "Address": "493 Admiralty Link, Block 493, Singapore 750493",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.817450,
+        1.455767
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cl"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Ang Mok Kio Blk 134 Basketball Court",
+      "Address": "134 Ang Mo Kio Ave 3, Singapore 560134",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.841559,
+        1.371876
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cm"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 201B Compassvale Dr Basketball Court",
+      "Address": "201B Compassvale Dr, Singapore 542201",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.893816,
+        1.387973
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cn"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 406 Yishun Basketball Court",
+      "Address": "406 Yishun Ave 6, Singapore 760406",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.849043,
+        1.425243
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8co"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 760 Yishun Street Soccer Court",
+      "Address": "Yishun Street 72, blk 761, Singapore 760761",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.832796,
+        1.425307
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cp"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 521 Woodlands Basketball Court",
+      "Address": "521 Woodlands Drive 14, Block 521, Singapore 730521",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.793167,
+        1.433353
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cq"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 299 Compassvale St Basketball Court",
+      "Address": "299 Compassvale St, Singapore 540299",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.902150,
+        1.397017
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cr"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Ang Mo Kio Community Centre Basketball Court",
+      "Address": "795 Ang Mo Kio Ave 1, Singapore 569976",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.840790,
+        1.366490
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cs"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 111 Yishun Basketball Court",
+      "Address": "111 Yishun Ring Rd, Singapore 760111",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.827961,
+        1.433018
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ct"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Chong Pang Community Club Basketball Court",
+      "Address": "21 Yishun Ring Rd, Singapore 768677",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.829391,
+        1.430563
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cu"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Chong Pang Community Club Badminton Court",
+      "Address": "21 Yishun Ring Rd, Singapore 768677",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,4]",
+      "Sport": "Badminton"
+      },
+      "geometry": {
+      "coordinates": [
+        103.829524,
+        1.430812
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cv"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Woodlands Crescent Park Basketball Court",
+      "Address": "Woodlands Crescent Park",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.804071,
+        1.445311
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cw"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 390 Yishun Basketball Court",
+      "Address": "390 Yishun Ave 6, Block 390, Singapore 760390",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.847834,
+        1.429212
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cx"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 368 Woodlands Basketball Court",
+      "Address": "368 Woodlands Ave 1, Singapore 730368",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.787084,
+        1.432958
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cy"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 512 Woodlands Basketball Court",
+      "Address": "512 Woodlands Drive 14, Singapore 730512",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.789099,
+        1.434067
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8cz"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 338 Woodlands Basketball Court",
+      "Address": "338 Woodlands Ave 1, Singapore 730338",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.78085539504995,
+        1.4307917772067646
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8da"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 604 Woodlands Basketball Court",
+      "Address": "604 Ang Mo Kio Ave 4",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.78085539504995,
+        1.4307917772067646
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8db"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Canberra Park Basketball Court",
+      "Address": "Sembawang Cres, Singapore 750325",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.81815459919932,
+        1.443400877726183
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dc"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 653 Hougang Basketball Court",
+      "Address": "653 Hougang Ave 8, Singapore 530653",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.88137835389061,
+        1.3732472517922303
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dd"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 918 Hougang Basketball Court",
+      "Address": "918 Hougang Ave 9, Singapore 530918",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.88387425384006,
+        1.375224277150862
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8de"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Punggol Meridian RC Basketball Court",
+      "Address": "114 Edgefield Plains, # 01-358, Singapore 820114",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.90820074605257,
+        1.3955723203340806
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8df"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 54 Toa Payoh Basketball Court",
+      "Address": "54 Lrg. 5 Toa Payoh, Singapore 310054",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.85018059880532,
+        1.337708843212425
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dg"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 403 Sin Ming Avenue Basketball Court",
+      "Address": "403 Sin Ming Ave, Singapore 570403",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.83345157210115,
+        1.3631402999956712
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dh"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Bishan Active Park Basketball Court",
+      "Address": "Bishan St. 23, Singapore 570210",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.84662283016476,
+        1.3567115825086558
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8di"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 90 Redhill Basketball Court",
+      "Address": "90 Redhill Cl, Block 90, Singapore 150090",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.81899385646963,
+        1.2846051424515221
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dj"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 64 Circuit Basketball Court",
+      "Address": "64 Circuit Rd, Block 64, Singapore 370064",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.88689084828339,
+        1.3267107885133076
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dj"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 64 Circuit Badminton Court",
+      "Address": "64 Circuit Rd, Block 64, Singapore 370064",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Badminton"
+      },
+      "geometry": {
+      "coordinates": [
+        103.88710203380855,
+        1.3266799312096613
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dk"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Tiong Bahru Community Centre Basketball Court",
+      "Address": "67A Eu Chin St, Singapore 169715",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.8320447564821,
+        1.2833564645515467
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dl"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 222 Toa Payoh Basketball Court",
+      "Address": "222 Lor 8 Toa Payoh, Block 222, Singapore 310222",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.8566328554551,
+        1.3415349785656252
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dm"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 30 Marine Crecent Basketball Court",
+      "Address": "30 Marine Cres, Block 30, Singapore 440030",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.91104491266992,
+        1.3038476173509597
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dn"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Rose Garden Basketball Court",
+      "Address": "26 Evans Rd, Singapore 259367",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.81992611484563,
+        1.3194760864078043
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8do"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 27B Jln Membina Basketball Court",
+      "Address": "27B Jln Membina, Singapore 164027",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.82501679518126,
+        1.2832107033814413
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8do"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 758 Pasir Ris Basketball Court",
+      "Address": "758 Pasir Ris Street 71, Block 758, Singapore 510758",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.93407051190088,
+        1.3768230895142288
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dp"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Kampong Kembangan Community Club Basketball Court",
+      "Address": "5 Lengkong Tiga, Singapore 417408",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.9128970779895,
+        1.3231635949914862
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dq"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 209 Tampines Street 21 Basketball Court",
+      "Address": "201G Tampines St. 21, Singapore 526201",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.95285470592526,
+        1.3521939721338154
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dr"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 288 Tampines Street 22 Basketball Court",
+      "Address": "288 Tampines Street 22, Singapore 520288",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.95359518314105,
+        1.3479782559277214
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ds"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 288 Tampines Street 22 Street Soccer Court",
+      "Address": "288 Tampines Street 22, Singapore 520288",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.95330071787549,
+        1.3477434498020573
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dt"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 37 Chai Chee Basketball Court",
+      "Address": "37 Chai Chee Ave, Singapore 461037",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.92624030210936,
+        1.3251847266208805
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8du"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 116 Bedok North Basketball Court",
+      "Address": "116 Bedok North Rd, Singapore 460116",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.93792700783067,
+        1.3312571383912541
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dv"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Fengshan CC Basketball Court",
+      "Address": "20 Bedok North Street 2, Singapore 469644",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.93650543712691,
+        1.3309460861126976
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dw"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 533 Bedok North Basketball Court",
+      "Address": "533 Bedok North Street 3, Singapore 460533",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.92424317213529,
+        1.334080432193013
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dx"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Tampines Blk 450 Basketball Court",
+      "Address": "450 Tampines Street 42, S)520450, Singapore 520450",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.95169035833992,
+        1.356787897187833
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dy"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Clementi Community Centre Basketball Court",
+      "Address": "220 Clementi Ave 4, Singapore 129880",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.76826036915232,
+        1.3189108292350915
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8dz"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Ayer Rajah Community Club Basketball Court",
+      "Address": "150 Pandan Gardens, Singapore 609335",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.74731338608899,
+        1.3208845252790289
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ea"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 289C Bukit Batok Basketball Court",
+      "Address": "289C Bukit Batok Street 25, Singapore 652289",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.75972102480046,
+        1.343627842968484
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8eb"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Firefly Park Basketball Court",
+      "Address": "304 Clementi Ave 4, Singapore 120304",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.76442086733172,
+        1.3202607267548792
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ec"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 103 Teck Whye Basketball Court",
+      "Address": "10 Choa Chu Kang Way, Singapore 688267 Choa Chu Kang Way, Singapore 688267",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.75337108754434,
+        1.3769011452976117
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ed"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Keat Hong Community Club Basketball Court",
+      "Address": "2 Choa Chu Kang Loop, #01-01, Singapore 689687",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.7448929370681,
+        1.3841413989937181
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ee"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 112 Bukit Purmei Basketball Court",
+      "Address": "112 Bukit Purmei Rd, Singapore 090112",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.82522438810985,
+        1.2746769104233588
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ef"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 305 Jurong East Street 32 Basketball Court",
+      "Address": "305 Jurong East Street 32, Block 305, Singapore 600305",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.73612329767633,
+        1.345220736877967
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8eg"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 305 Jurong East Street 32 Street Soccer Court",
+      "Address": "305 Jurong East Street 32, Block 305, Singapore 600305",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.73628908663835,
+        1.3456328948978729
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8eh"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Jurong Spring Neighbourhood Street Soccer Court",
+      "Address": "548 Jurong West Street 42, Block 548, Singapore 640548",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.71669589121757,
+        1.3536800776491857
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ei"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Jurong Spring Neighbourhood Basketball Court",
+      "Address": "548 Jurong West Street 42, Block 548, Singapore 640548",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.71711260415488,
+        1.353386699707091
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ej"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Blk 246 Jurong East Basketball Court",
+      "Address": "246 Jurong East St 24, Singapore 600246",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.7407152660617,
+        1.3417543996948438
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8ek"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Bukit Batok Plaza Street Soccer Court",
+      "Address": "225 Bukit Batok Central, Block 225, Singapore 650225",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Soccer"
+      },
+      "geometry": {
+      "coordinates": [
+        103.7526646264558,
+        1.3488550340321073
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8el"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Block 224 Bukit Batok Basketball Court",
+      "Address": "224 Bukit Batok Street 21, Block 224, Singapore 650224",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.75248936123765,
+        1.3478863630017741
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8em"
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+      "Name": "Choa Chu Kang CC Sheltered Basketball Court",
+      "Address": "35 Teck Whye Ave, Singapore 688892",
+      "Opening Hours": "[0600,2200]",
+      "Players": "[2,10]",
+      "Sport": "Basketball"
+      },
+      "geometry": {
+      "coordinates": [
+        103.751796172793,
+        1.3813133286531314
+      ],
+      "type": "Point"
+      },
+      "id": "f1b7645b154a148c86e1f701f78cc8en"
+    }
+  ],
+  "type": "FeatureCollection"
+}

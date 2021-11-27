@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sport Buddies App</string>
+    <string name="user_location_permission_explanation">User location permission not granted</string>
+    <string name="user_location_permission_not_granted">user_location_permission_not_granted</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoicnlhbm9uZ3d4IiwiYSI6ImNrdXB2YjFmbDRwNTYycHE2cmw4Z3doYzEifQ.X8g0Luv8XNMlgcMlc_8j6w</string>
+    <string name="query_feature_marker_title">query_feature_marker_title</string>
+    <string name="query_feature_no_properties_found">Please click on a valid sports location</string>
+    <string name="choose_location">Choose Location</string>
+</resources>
