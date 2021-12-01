@@ -175,12 +175,16 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()){
+            // Note: If switch case is used, have to break at the end of every case
             case R.id.logoutMenu:
                 firebaseAuth.signOut();
                 finish();
                 openLoginActivity();
+                break;
             case R.id.home:
                 openMainActivity();
+                break;
+
         }
         return super.onOptionsItemSelected(item);
     }

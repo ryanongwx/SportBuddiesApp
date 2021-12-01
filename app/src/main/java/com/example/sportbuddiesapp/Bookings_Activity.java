@@ -139,8 +139,10 @@ public class Bookings_Activity extends AppCompatActivity implements New_Booking_
                 firebaseAuth.signOut();
                 finish();
                 openLoginActivity();
+                break;
             case R.id.home:
                 openMainActivity();
+                break;
         }
         return super.onOptionsItemSelected(item);
     }

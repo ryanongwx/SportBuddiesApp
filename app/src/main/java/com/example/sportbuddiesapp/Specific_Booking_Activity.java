@@ -143,8 +143,10 @@ public class Specific_Booking_Activity extends AppCompatActivity {
                 firebaseAuth.signOut();
                 finish();
                 openLoginActivity();
+                break;
             case R.id.home:
                 openMainActivity();
+                break;
         }
         return super.onOptionsItemSelected(item);
     }
