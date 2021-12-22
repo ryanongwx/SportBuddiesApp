@@ -1,12 +1,13 @@
 package com.example.sportbuddiesapp;
 
-import androidx.room.Database;
-
+import com.example.sportbuddiesapp.ObjectClass.Booking;
+import com.example.sportbuddiesapp.ObjectClass.Chat;
+import com.example.sportbuddiesapp.ObjectClass.Invitation;
+import com.example.sportbuddiesapp.ObjectClass.Review;
+import com.example.sportbuddiesapp.ObjectClass.User;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-
-import java.util.HashMap;
 
 public class DBManager {
 
@@ -34,11 +35,16 @@ public class DBManager {
         return databaseReference.child("Review").push().setValue(review);
     }
 
-
-    public Task<Void> update(String key, HashMap<String, Object> hashmap)
+    public Task<Void> addchat(Chat chat)
     {
-        return databaseReference.child(key).updateChildren(hashmap);
+        return databaseReference.child("Chat").push().setValue(chat);
     }
+
+    public Task<Void> addInvitation(Invitation invitation)
+    {
+        return databaseReference.child("Invitation").push().setValue(invitation);
+    }
+
 
     public Task<Void> removebooking(String key)
     {

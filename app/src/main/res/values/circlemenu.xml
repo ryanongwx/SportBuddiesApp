@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- icons array-->
+    <array name="icons">
+        <item>@drawable/chats_icon</item>
+        <item>@drawable/booking_icon</item>
+        <item>@drawable/profile_icon</item>
+    </array>
+    <!-- icons colors-->
+    <array name="colors">
+        <item>#DA88E7</item>
+        <item>#DA88E7</item>
+        <item>#DA88E7</item>
+    </array>
+</resources>

@@ -6,4 +6,6 @@
     <string name="query_feature_marker_title">query_feature_marker_title</string>
     <string name="query_feature_no_properties_found">Please click on a valid sports location</string>
     <string name="choose_location">Choose Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

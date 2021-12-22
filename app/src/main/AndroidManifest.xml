@@ -39,6 +39,8 @@
         <activity android:name=".Bookings_Activity" />
         <activity android:name=".Specific_Booking_Activity" />
         <activity android:name=".Review_Activity" />
+        <activity android:name=".Buddies_Network_Activity" />
+        <activity android:name=".MessageActivity" />
 
     </application>
 

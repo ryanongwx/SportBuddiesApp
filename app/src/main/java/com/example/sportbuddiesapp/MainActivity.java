@@ -61,6 +61,7 @@ import com.mapbox.mapboxsdk.maps.Style;
 import com.mapbox.mapboxsdk.style.layers.SymbolLayer;
 import com.mapbox.mapboxsdk.style.sources.GeoJsonSource;
 import com.mapbox.geojson.Point;
+import com.ramotion.circlemenu.CircleMenuView;
 
 
 import java.lang.ref.WeakReference;
@@ -153,15 +154,24 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
         firebaseAuth = FirebaseAuth.getInstance();
 
 
-        // Set the onclick listener for the choose location button to go to the booking page
-        bookingsBtn = findViewById(R.id.bookingsBtn);
-        bookingsBtn.setOnClickListener(new View.OnClickListener() {
+        // Creating the circle menu
+        final CircleMenuView circlemenu = findViewById(R.id.circle_menu);
+        circlemenu.setEventListener(new CircleMenuView.EventListener(){
             @Override
-            public void onClick(View v) {
-                openBookingsActivity();
+            public void onButtonClickAnimationEnd(@NonNull CircleMenuView view, int buttonIndex) {
+                super.onButtonClickAnimationEnd(view, buttonIndex);
+                if(buttonIndex == 0) {
+                    //TODO Open Chat activity
+                    openChatActivity();
+                }
+                else if(buttonIndex == 1) {
+                    openBookingsActivity();
+                }
+                else if(buttonIndex == 2) {
+                    //TODO Open Profile activity
+                }
             }
         });
-
     }
 
     // This will take care of creating the menu bar within the toolbar
@@ -199,6 +209,12 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
     private void openBookingsActivity() {
         Intent intent = new Intent(this, Bookings_Activity.class);
+        startActivity(intent);
+
+    }
+
+    private void openChatActivity() {
+        Intent intent = new Intent(this, Buddies_Network_Activity.class);
         startActivity(intent);
 
     }

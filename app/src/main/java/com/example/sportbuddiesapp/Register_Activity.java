@@ -13,12 +13,15 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.sportbuddiesapp.ObjectClass.Credentials;
+import com.example.sportbuddiesapp.ObjectClass.User;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
+import java.util.Locale;
 import java.util.Map;
 
 public class Register_Activity extends AppCompatActivity {
@@ -79,7 +82,8 @@ public class Register_Activity extends AppCompatActivity {
             registerBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String registerNameText = registerName.getText().toString();
+                // Made username to lowercase to facilitate easier search for username in the chat pages
+                String registerNameText = registerName.getText().toString().toLowerCase(Locale.ROOT);
                 String registerEmailText = registerEmail.getText().toString();
                 String registerPasswordText = registerPassword.getText().toString();
                 String registerConfirmPasswordText = registerConfirmPassword.getText().toString();

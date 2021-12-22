@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Fragments.InvitationFragment">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/invitationAppBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="MissingConstraints">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/invitationTablayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#DA88E7"
+            app:tabIndicatorColor="#fff"
+            app:tabSelectedTextColor="#000"
+            app:tabTextColor="#000"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/invitationViewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/invitationAppBarLayout"
+        android:layout_marginTop="2dp" />
+
+</RelativeLayout>
