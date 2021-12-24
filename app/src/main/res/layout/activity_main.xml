@@ -19,8 +19,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|center"
             mapbox:button_colors="@array/colors"
-            mapbox:button_icons="@array/icons"
-            />
+            mapbox:button_icons="@array/icons" />
 
 
     </com.mapbox.mapboxsdk.maps.MapView>
@@ -104,6 +103,7 @@
                     android:layout_height="60dp"
                     android:layout_gravity="center"
                     android:text="Review Location"
+                    android:layout_marginRight="20dp"
                     mapbox:layout_constraintBottom_toBottomOf="parent"
                     mapbox:layout_constraintEnd_toEndOf="parent"
                     mapbox:layout_constraintHorizontal_bias="0.075"
@@ -116,6 +116,7 @@
                     android:layout_width="150dp"
                     android:layout_height="60dp"
                     android:layout_gravity="right"
+                    android:layout_marginLeft="20dp"
                     android:text="@string/choose_location"
                     mapbox:layout_constraintBottom_toBottomOf="parent"
                     mapbox:layout_constraintEnd_toEndOf="parent"

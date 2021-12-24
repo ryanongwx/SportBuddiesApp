@@ -103,6 +103,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
     private RatingBar ratings;
     private Integer avgrating;
     Button reviewBtn;
+    private CircleMenuView circlemenu;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -155,7 +156,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
 
         // Creating the circle menu
-        final CircleMenuView circlemenu = findViewById(R.id.circle_menu);
+        circlemenu = findViewById(R.id.circle_menu);
         circlemenu.setEventListener(new CircleMenuView.EventListener(){
             @Override
             public void onButtonClickAnimationEnd(@NonNull CircleMenuView view, int buttonIndex) {
@@ -456,6 +457,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
 
                     cardLayout.setVisibility(View.VISIBLE);
+                    circlemenu.setVisibility(View.GONE);
                     new GenerateViewIconTask(MainActivity.this).execute(FeatureCollection.fromFeature(feature));
                     animateCameraToSelection(featureAtMapClickPoint);
                 }
@@ -476,6 +478,7 @@ public class MainActivity extends AppCompatActivity implements OnMapReadyCallbac
 
     // Deselect is to remove the top cardview view when another location is clicked
     private void deselectAll() {
+        circlemenu.setVisibility(View.VISIBLE);
         cardLayout.setVisibility(View.GONE);
     }
 
